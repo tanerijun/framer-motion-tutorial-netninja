@@ -1,3 +1,3 @@
-## Pizza Joint - Framer Motion Tutorial
+## Pizza Joint
 
-Project cloned from https://github.com/iamshaunjp/framer-motion/
+Experimenting with Framer Motion
